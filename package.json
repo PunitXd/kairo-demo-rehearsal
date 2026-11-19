@@ -1,0 +1,14 @@
+{
+  "name": "kairo-demo-rehearsal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Copy of the Kairo node sample, for the demo rehearsal (/work and /leak)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
